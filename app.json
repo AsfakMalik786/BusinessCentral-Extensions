@@ -1,0 +1,33 @@
+{
+    "id": "e00ee4b6-2c80-4639-9036-3e7b335d13fe",
+    "name": "New AL Practice",
+    "publisher": "CRONUS International Ltd.",
+    "version": "1.6.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "25.2.27733.27900",
+    "idRanges": [
+        {
+            "from": 51000,
+            "to": 52000
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "14.0",
+    "contextSensitiveHelpUrl": "https://www.youtube.com/",
+    "features": [
+        "NoImplicitWith"
+    ]
+}
