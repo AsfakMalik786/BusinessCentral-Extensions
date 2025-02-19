@@ -682,6 +682,10 @@ page 51009 "Candidate Card"
 
                 end;
             }
+            separator("My Seperator")
+            {
+                IsHeader = true;
+            }
             action("Check Skill Variant")
             {
                 ApplicationArea = All;
